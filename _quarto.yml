@@ -1,0 +1,13 @@
+project:
+  title: "installation-guide"
+
+format:
+  pdf:
+    toc: false
+    number-sections: true
+    colorlinks: true
+    code-block-bg: true
+    highlight-style: github
+    
+execute:
+  eval: false
