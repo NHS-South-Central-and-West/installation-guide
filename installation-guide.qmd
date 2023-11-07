@@ -2,6 +2,8 @@
 title: "Python & R Installation & Usage Guide"
 ---
 
+SCW users have faced some difficulties when trying to get Python, and to a lesser extent R, installed on their laptops. This guide will hopefully reduce some of that friction, both in terms of installation and basic usage of either Python or R.
+
 ## Python
 
 ### Installation
@@ -76,3 +78,20 @@ Packages can be installed using either `install.packages()` or `renv::install()`
 In order to take a snapshot of your project's dependencies, use `renv::snapshot()`.
 
 For more information about environment and dependency management in R, the [`renv` documentation](https://rstudio.github.io/renv/index.html) is the best place to start.
+
+## Further Resources
+
+If you are learning R or Python for the first time, there are lots of really good online resources that will help you on your way. The following are not exhaustive, but are some examples of the resources available for learning R or Python. If these don't work for you, there's lots more out there, but they should get you started!
+
+For learning R:
+
+- [NHS-R Community - Introduction to R](https://nhs-r-community.github.io/intro_r/)
+- [R for Data Science](https://r4ds.hadley.nz/)
+- [Hands-On Programming with R](https://jjallaire.github.io/hopr/)
+
+For learning Python:
+
+- [Introduction to Python](http://introtopython.org/)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/)
+- [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+- [NHS Digital RAP Community - Python Training Resources](https://nhsdigital.github.io/rap-community-of-practice/training_resources/python/intro-to-python/)
